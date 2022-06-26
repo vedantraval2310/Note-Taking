@@ -1,5 +1,5 @@
 # Note-Taking
-A Note Taking App created using HTML, Bootstrap and Javascript.
+A Note Taking App created using HTML, CSS, Javascript
 
 **Step 1**: First of all Clone the Repository in your Git Bash. 
 
