@@ -1,6 +1,9 @@
 body{
     background:url(/Untitled.jpeg);
-    background-size: cover;
+   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
 }
 .card-body{
     background-color: rgb(254, 254, 254);
