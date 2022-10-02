@@ -1,6 +1,13 @@
 # Note-Taking
 Tech Stack - HTML | CSS | Javascript
 
+# About Project
+This Project Contain Temporary notes.
+* Feature of the Website
+- _Add Notes_
+- _Search Notes_
+- _Delete Notes_
+
 **Step 1**: First of all Clone the Repository in your Git Bash. 
 
   ```sh
