@@ -1,8 +1,18 @@
 body{
-    background-color: darkgrey;
+    background:url(/Untitled.jpeg);
+   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
 }
 .card-body{
-    background-color: rgb(220, 217, 217);
+    background-color: rgb(254, 254, 254);
     font-weight: bold;
     font-size: 20px;
+}
+.navbar-dark bg-dark{
+    background: linear-gradient(90deg,);
+}
+.main-heading{
+    color: #fff;
 }
