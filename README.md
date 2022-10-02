@@ -11,7 +11,7 @@ git clone "https://github.com/Chirantanbanik/Note-Taking.git"
   ```sh
 cd Note-Taking
 ``` 
-**Step 3**: Now once in the **Note-Taking** directory/folder, **press code .** in the same Git Bash to open the VS Code with all the required files.
+**Step 3**: Now once in the **Note-Taking** directory/folder, press **code .** in the same Git Bash to open the VS Code with all the required files.
   
   ```sh
   code . 
