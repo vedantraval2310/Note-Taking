@@ -1,6 +1,15 @@
 # Note-Taking
 Tech Stack — HTML | CSS | Javascript
 
+## About the project
+
+*Features*
+- _Add notes_
+- _Search notes_
+- _Delete notes_
+
+## Installation steps
+
 **Step 1**: Clone the repository in your Git Bash. 
 
   ```sh
@@ -11,8 +20,7 @@ git clone "https://github.com/Chirantanbanik/Note-Taking.git"
   ```sh
 cd Note-Taking
 ``` 
-**Step 3**: Now in the `Note-Taking` directory, type `code .` (in your same Git Bash) to open the project and its files in VS Code.
-  
+**Step 3**: Now in the `Note-Taking` directory, type `code .` (in your same Git Bash) to open the project and its files in VS Code.  
   ```sh
   code . 
   ```
