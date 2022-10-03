@@ -1,31 +1,27 @@
 # Note-Taking
-Tech Stack - HTML | CSS | Javascript
+Tech Stack — HTML | CSS | Javascript
 
-# About Project
-This Project Contain Temporary notes.
-* Feature of the Website
-- _Add Notes_
-- _Search Notes_
-- _Delete Notes_
+## About the project
 
-**Step 1**: First of all Clone the Repository in your Git Bash. 
+*Features*
+- _Add notes_
+- _Search notes_
+- _Delete notes_
+
+## Installation steps
+
+**Step 1**: Clone the repository in your Git Bash. 
 
   ```sh
 git clone "https://github.com/Chirantanbanik/Note-Taking.git"
 ``` 
-**Step 2**: After cloning the repository go to the directory by **cd Note-Taking**.
+**Step 2**: Navigate to the cloned repository's directory by entering `cd Note-Taking` into the command-line prompt.
   
   ```sh
 cd Note-Taking
 ``` 
-**Step 3**: Now once in the **Note-Taking** directory/folder, press **code .** in the same Git Bash to open the VS Code with all the required files.
-  
+**Step 3**: Now in the `Note-Taking` directory, type `code .` (in your same Git Bash) to open the project and its files in VS Code.  
   ```sh
   code . 
   ```
-**Step 4**: Now copy the **copy path** from index.html by right clicking the file and paste it in your favourite browser to use the app.
-  
-  
-  
-  
-  
+**Step 4**: Copy the **copy path** from `index.html` by right-clicking its file icon in VS Code. Paste this path into your favourite browser to use the app!
