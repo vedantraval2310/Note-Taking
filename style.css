@@ -6,7 +6,7 @@ body{
     
 }
 .card-body{
-    background-color: rgb(254, 254, 254);
+    background-color: rgb(176, 50, 50);
     font-weight: bold;
     font-size: 20px;
 }
@@ -14,5 +14,9 @@ body{
     background: linear-gradient(90deg,);
 }
 .main-heading{
-    color: #fff;
+    color: rgb(99, 19, 19);
+}
+
+.clip{
+    background-color: blue;
 }
